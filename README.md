@@ -20,5 +20,5 @@ Several machine learning algorithms are implemented and evaluated for the Iris f
 ### Conclusion
 Based on the accuracy scores, all models performed well in classifying the Iris flower species. Logistic Regression, Support Vector Machines, Naive Bayes, and K-Nearest Neighbors achieved the highest accuracy of 94.7%. The Decision Tree model had a slightly lower accuracy of 92.1%.
 
-#Author
+###Author
 Pawan Sharma
